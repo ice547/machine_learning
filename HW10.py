@@ -20,5 +20,3 @@ classifier = SVC(kernel = 'rbf',random_state =0)
 classifier.fit(x_train,y_train)
 
 y_pred = classifier.predict(x_test)
-
-GitTest123
