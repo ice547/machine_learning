@@ -12,4 +12,4 @@ y_pred=classifier.predict(x_test)
 -------------------------------------------------------------------------------------------------------------
 
 
-![](https://hackmd.io/_uploads/SJDQaQhv3.png)
+![image](https://hackmd.io/_uploads/SJDQaQhv3.png)
