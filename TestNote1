@@ -10,5 +10,3 @@ y_pred=classifier.predict(x_test)
 
 
 -------------------------------------------------------------------------------------------------------------
-
-https://raw.githubusercontent.com/ice547/machine_learning/main/FB_IMG_1603800345107.jpg
