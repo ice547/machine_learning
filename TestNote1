@@ -1,0 +1,12 @@
+For knowing the knowledge of Random_Forest ,  you could know this by the code the I will mentioned .
+
+-------------------------------------------------------------------------------------------------------------
+
+from sklearn.ensemble import RandomForestClassifier
+
+classifier = RandomForestClassifier(n_estimators = 100, criterion ='entropy', random_state = 0)
+classifier.fit(x_train, y_train)
+y_pred=classifier.predict(x_test)
+
+
+-------------------------------------------------------------------------------------------------------------
